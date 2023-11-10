@@ -1,6 +1,3 @@
-
-# To Do List - React <a href="https://react-chat-app-7uzf.onrender.com/" target="_blank">Live App</a>
-
 A chat app using react.<br>
 
 
