@@ -8,7 +8,7 @@ A chat app using react.<br>
 
 Run chat-app with npm
 
-   * You copy the git repositories link from my git <a href="https://github.com/amitkr24/react-chat-app">account</a>.  <br>
+   * You copy the git repositories link from my git <a href="https://github.com/Sumunbarman/rect-chat-app">account</a>.  <br>
    * Open git bash and clone the project using (git clone) command <br>
    * Navigate to the react-chat-app folder <br>
    * Install all dependencies using (npm install)  <br>
